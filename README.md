@@ -1,2 +1,2 @@
 # Prueba2
-otra pag
+otra pag: https://ana-ireri.github.io/Prueba2/
